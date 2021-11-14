@@ -1,1 +1,1 @@
-# Stats
+# Data set for Statistics project
